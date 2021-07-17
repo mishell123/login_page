@@ -1,0 +1,11 @@
+.card {
+    padding: 2rem;
+}
+
+.login-padding {
+    padding-right: 0 !important;
+}
+
+.container-fluid {
+    height: calc(100vh - 50px);
+}
